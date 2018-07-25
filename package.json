@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/tiecmdr/RepositoryTest",
   "dependencies": {
+    "@types/express-serve-static-core": "^4.16.0",
     "body-parser": "^1.18.3",
     "debug": "^3.1.0",
     "express": "^4.16.3",
